@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Meysam Jafari 👋</h1>
   
   <p>
-    <strong>Software Engineer</strong> | Full-Stack Developer 
+    <strong>Software Engineer</strong> 
   </p>
 
   <img src="https://img.shields.io/badge/Mashhad,%20Iran-🇮🇷-blue" alt="Location" />
