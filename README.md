@@ -5,7 +5,6 @@
     <strong>Software Engineer</strong> 
   </p>
 
-  <img src="https://img.shields.io/badge/Mashhad,%20Iran-🇮🇷-blue" alt="Location" />
   <img src="https://img.shields.io/github/followers/meysam-jeffrey?label=Followers" alt="Followers" />
 </div>
 
@@ -15,7 +14,7 @@
 
 I'm a **Software Engineer** with a strong focus on **frontend development**, responsive design, and creating delightful user experiences. 
 
-I love turning complex problems into simple, beautiful, and intuitive solutions. Currently based in **Mashhad, Iran**, I enjoy working with modern web technologies and contributing to open-source projects.
+I love turning complex problems into simple, I enjoy working with modern web technologies and contributing to open-source projects.
 
 ---
 
