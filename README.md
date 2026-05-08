@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Meysam Jafari 👋</h1>
   
   <p>
-    <strong>Software Engineer</strong> | Full-Stack Developer | Passionate about Clean Code & Great UX
+    <strong>Software Engineer</strong> | Full-Stack Developer 
   </p>
 
   <img src="https://img.shields.io/badge/Mashhad,%20Iran-🇮🇷-blue" alt="Location" />
@@ -19,6 +19,5 @@ I love turning complex problems into simple, beautiful, and intuitive solutions.
 
 ---
 
-**Tools & Others**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
